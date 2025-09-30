@@ -88,7 +88,7 @@ while (low <= high) {
 - Helps choose better algorithms.  
 - Allows comparing efficiency without implementation.
 
-- ## Conclusion
+## 8. Conclusion
 
 Algorithm analysis using Big O notation is a fundamental tool in computer science to evaluate the efficiency of algorithms in terms of **time** and **space**. It helps us:
 
